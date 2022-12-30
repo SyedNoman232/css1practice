@@ -1,0 +1,26 @@
+*{ 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    text-align:double; color: rgb(94, 14, 185);
+    text-decoration-color: black;
+}
+
+body {
+    background-color: aqua;
+    font-size: larger;
+}
+p3 {
+    background-color: brown;
+    font-size:larger;
+}
+#uniqueheading{
+    color: green;
+    font-size: larger;
+    background-color: aliceblue;
+}
+.center{
+    text-align: center;
+    background-color: blueviolet;
+    text-decoration: solid black;
+}
